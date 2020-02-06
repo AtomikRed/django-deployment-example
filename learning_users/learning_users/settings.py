@@ -27,7 +27,9 @@ SECRET_KEY = 'jzdhoj^ig9!o^^kb0oazyvxzq(_z=98-g#8jcz3qih@p(#un86'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'atomikred.pythonanywhere.com',
+]
 
 
 # Application definition
